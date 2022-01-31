@@ -7,7 +7,7 @@ While I was looking through various articles, I stumbled upon a [feature](https:
 * Remembering Weizenbaum's ELIZA, how can we program robots that not only "simulate" understanding and empathy, but are actually empathetic? 
 * Are there possible threats with allowing robots into this field? Especially with regards to privacy and confidentiality? 
 
-## Possible Resources
+## Preliminary Resource List
 * [Artifical Intelligence and the Future of Therapy](https://www.psychologytoday.com/us/blog/man-talks-machine/201404/artificial-intelligence-and-the-future-therapy) - Psychology Today
 * [AI-Therapy](https://www.ai-therapy.com/) - an automated social anxiety treatment program
 * [Robo therapy: a new class of robots provides social and cognitive support](https://www.apa.org/monitor/2015/06/robo-therapy) - American Psychologial Association
