@@ -1,4 +1,4 @@
-#Initial Project Proposal
+# Initial Project Proposal
 ## The Role of Robots and AI in Mental Health 
 
 While I was looking through various articles, I stumbled upon a [feature](https://www.apa.org/monitor/2015/06/robo-therapy) by the American Psychology Association about "bubblebot," a robot designed to help children on the autism spectrum develop social skills. A bunch of other articles referenced the usage of AI to develop counseling applications, help the elderly with dementia...etc. So, I decided to explore this in my project. I still feel like my topic can be narrowed down, which I feel like will happen when I read more of the resources in depth and consider some of the questions I have, such as:
@@ -7,7 +7,7 @@ While I was looking through various articles, I stumbled upon a [feature](https:
 * Remembering Weizenbaum's ELIZA, how can we program robots that not only "simulate" understanding and empathy, but are actually empathetic? 
 * Are there possible threats with allowing robots into this field? Especially with regards to privacy and confidentiality? 
 
-##Possible Resources
+## Possible Resources
 * [Artifical Intelligence and the Future of Therapy](https://www.psychologytoday.com/us/blog/man-talks-machine/201404/artificial-intelligence-and-the-future-therapy) - Psychology Today
 * [AI-Therapy](https://www.ai-therapy.com/) - an automated social anxiety treatment program
 * [Robo therapy: a new class of robots provides social and cognitive support](https://www.apa.org/monitor/2015/06/robo-therapy) - American Psychologial Association
