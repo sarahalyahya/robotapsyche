@@ -4,7 +4,7 @@
 ## Concept
 As I read into predator-prey relationships, I couldn't help but apply them on a human context. The predator, an evil murderous dictator, and the preys, the people under this dictator's rule. This led me to think about the concepts of team work and collective effort. They say "We're stronger together," and I agree! So, I wanted to create an ecosystem where the predator grows less and less impactful as the preys gain strength from interacting -colliding - with each other. 
 
-##The Cycle 
+## The Cycle 
 1. The Predator has the strongest presence in the system. Its attractive force is much stronger than the repelling force of the preys. This repelling force is meant to simulate attempts of escape 
 2. As the preys are attracted towards the predator, they meet and collide with each other due to an attractive force between them. This makes them faster, stronger, and larger. 
 3. Eventually, collisions with the predator do not kill the preys. They become insignificant. The preys as a collective just bounce off the predator and exist together peacefully. 
