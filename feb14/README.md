@@ -20,7 +20,7 @@ The pythagorean theorem is magic! It solved multiple of my issues with the code!
 - Allowing for the "birth" of new preys
 
 
-##Conclusion
+## Conclusion
 This was a really fun assignment to work on! I have never coded with taking the laws of physics into account, and while it adds a challenge, it is so satisfying to create one's own mini-world, especially one where the members of the world can defeat evil and achieve justice :-) 
 
 The Preys, even the ones in contact with the predator, remain alive!
