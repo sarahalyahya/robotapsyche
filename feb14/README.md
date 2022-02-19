@@ -12,6 +12,8 @@ As I read into predator-prey relationships, I couldn't help but apply them on a 
 ## Difficulties and Imperfections
 Applying the impact of prey-prey collisions and prey-predator collisions was a bit challenging and depended a lot on trial and error. At first, I struggled with figuring out what to increment and what to keep untouched to achieve the effect that I want. I think I have more clarity about that now, but I still think the code needs more work to simulate a more well-connected physical system. For instance, I think the increase in prey radius should be more dependent on its mass increase rather than it independently increasing. Additionally, I tried to use scaling to make the process a bit slower, but I think it would look more organic if it was even slower.
 
+## Revelations
+The pythagorean theorem is magic! It solved multiple of my issues with the code! Mainly with relation to collisions. 
 ## Next Steps
 - Giving preys the ability to kill the predator
 - Adding multiple predators
@@ -20,5 +22,7 @@ Applying the impact of prey-prey collisions and prey-predator collisions was a b
 
 ##Conclusion
 This was a really fun assignment to work on! I have never coded with taking the laws of physics into account, and while it adds a challenge, it is so satisfying to create one's own mini-world, especially one where the members of the world can defeat evil and achieve justice :-) 
+
+The Preys, even the ones in contact with the predator, remain alive!
 ![Screenshot1](https://github.com/sarahalyahya/robotapsyche/blob/3a9912d36b42a81aa9390e9312c7e386ad1ef9e1/feb14/Screenshot1.png)
 ![Screenshot2](https://github.com/sarahalyahya/robotapsyche/blob/bf40b8dddc04787b673e41c0d48376405960092d/feb14/Screenshot2.png)
