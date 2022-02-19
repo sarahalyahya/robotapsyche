@@ -20,3 +20,5 @@ Applying the impact of prey-prey collisions and prey-predator collisions was a b
 
 ##Conclusion
 This was a really fun assignment to work on! I have never coded with taking the laws of physics into account, and while it adds a challenge, it is so satisfying to create one's own mini-world, especially one where the members of the world can defeat evil and achieve justice :-) 
+![Screenshot1](feb14/Screenshot1.png)
+![Screenshot2](feb14/Screenshot2.png)
