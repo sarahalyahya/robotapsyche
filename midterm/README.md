@@ -40,8 +40,10 @@ For my midterm assignment, I wanted to build on top of my first assignment. My i
 
 
 ## Issues
-There is still a slight lack of consistent within the ecosystem that I'm confused about, it was initially very obvious, but it's now better after tweaking values. Still, I think that if I leave this code for a bit and then revisit it with a fresh eye later I'll be able to tweak the code and figure it out! Of course, all comments and feedback are welcome! (Please!!)
-To be more specific, these inconsistencies are evident in some collisions not resulting in the coded outcome, e.g. two revolutionaries coliding without the strength increasing. I believe this might be due to the nested loop structure which deals with two elements at once only. I'm not sure how I would tackle this and would love advice
+There is still a slight lack of consistency within the ecosystem that I'm confused about, it was initially very obvious, but it's now better after tweaking values. 
+To be more specific, these inconsistencies are evident in some collisions not resulting in the coded outcome, e.g. two revolutionaries coliding without the strength increasing. I believe this might be due to the nested loop structure which deals with two elements at once only. I'm not sure how I would tackle this and would love advice. 
+I think that if I leave this code for a bit and then revisit it with a fresh eye later I'll be able to tweak the code and figure it out! Of course, all comments and feedback are welcome! (Please!!)
+
 
 ## Future Improvements 
 For the future, I can work on: 
