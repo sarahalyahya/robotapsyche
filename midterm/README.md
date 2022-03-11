@@ -1,4 +1,4 @@
-#Stronger Together - v.2
+# Stronger Together - v.2
 
 ## Screen Recordings 
 [Take 1](https://youtu.be/KpoRuM0xAxY)
