@@ -1,5 +1,6 @@
 # Robots in Mental Health and Therapy 
 Access the Slides [Here](https://docs.google.com/presentation/d/1cAMKiXOf87Je6z9RQuN2IBkTWj1dE4v0sMnnN4j474k/edit?usp=sharing) 
+Access the Script [Here](https://docs.google.com/document/d/1RWgiWJItBckRDuxDyCCX9gRc5NqVet3axi5vINbzMWo/edit?usp=sharing)
 
 ## Topic
 Recently, I've been thinking a lot about accessibility to mental health resources, mainly how it is exclusive to a select few members of society, even when there's often a dire need for it. Early conversations in class inspired me to think about whether robots and AI can be a solution to this issue.  Then, as we started talking about ethics in robotics, I wondered how we can navigate that specifically when thinking about robots and mental health support. 
